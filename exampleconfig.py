@@ -14,7 +14,7 @@ class Development(Config):
     # create a new bot in @botfather and fill the following vales with bottoken
     TG_BOT_TOKEN = "5876358843:AAFBwdxL3Ev11aqLcQR8_xkvOTyrmDWStY0"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
-    PRIVATE_GROUP_BOT_API_ID = -491189746
+    PRIVATE_GROUP_BOT_API_ID = -1001841648449
     # command handler
     COMMAND_HAND_LER = "."
     # command hanler for sudo
